@@ -1,0 +1,75 @@
+REM DATE 1997
+REM DISCID CB0E210E
+REM COMMENT "ExactAudioCopy v0.99pb1"
+PERFORMER "蔡国庆"
+TITLE "20世纪中华歌坛名人百集珍藏版"
+FILE "蔡国庆 - 20世纪中华歌坛名人百集珍藏版.wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "同一首歌"
+    PERFORMER "蔡国庆"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "北京的桥"
+    PERFORMER "蔡国庆"
+    INDEX 00 04:23:62
+    INDEX 01 04:29:30
+  TRACK 03 AUDIO
+    TITLE "遥远的思念"
+    PERFORMER "蔡国庆"
+    INDEX 00 08:04:55
+    INDEX 01 08:10:15
+  TRACK 04 AUDIO
+    TITLE "记住"
+    PERFORMER "蔡国庆"
+    INDEX 00 12:39:37
+    INDEX 01 12:43:62
+  TRACK 05 AUDIO
+    TITLE "回家"
+    PERFORMER "蔡国庆"
+    INDEX 00 15:44:35
+    INDEX 01 15:48:45
+  TRACK 06 AUDIO
+    TITLE "三百六十五个祝福"
+    PERFORMER "蔡国庆"
+    INDEX 00 20:23:50
+    INDEX 01 20:28:37
+  TRACK 07 AUDIO
+    TITLE "柳絮雪"
+    PERFORMER "蔡国庆"
+    INDEX 00 24:12:67
+    INDEX 01 24:17:67
+  TRACK 08 AUDIO
+    TITLE "心光"
+    PERFORMER "蔡国庆"
+    INDEX 00 28:07:27
+    INDEX 01 28:12:27
+  TRACK 09 AUDIO
+    TITLE "总有"
+    PERFORMER "蔡国庆"
+    INDEX 00 32:48:62
+    INDEX 01 32:52:62
+  TRACK 10 AUDIO
+    TITLE "小小水滴"
+    PERFORMER "蔡国庆"
+    INDEX 00 38:40:27
+    INDEX 01 38:45:34
+  TRACK 11 AUDIO
+    TITLE "野山歌"
+    PERFORMER "蔡国庆"
+    INDEX 00 43:18:57
+    INDEX 01 43:24:30
+  TRACK 12 AUDIO
+    TITLE "望春"
+    PERFORMER "蔡国庆"
+    INDEX 00 47:10:37
+    INDEX 01 47:17:10
+  TRACK 13 AUDIO
+    TITLE "行一个军礼"
+    PERFORMER "蔡国庆"
+    INDEX 00 51:06:00
+    INDEX 01 51:10:34
+  TRACK 14 AUDIO
+    TITLE "我心中的故事"
+    PERFORMER "蔡国庆"
+    INDEX 00 55:11:62
+    INDEX 01 55:17:20
