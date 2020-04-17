@@ -1,0 +1,75 @@
+REM DATE 1997
+REM DISCID A50E1D0E
+REM COMMENT "ExactAudioCopy v0.99pb1"
+PERFORMER "王靖雯"
+TITLE "20世纪中华歌坛名人百集珍藏版"
+FILE "王靖雯 - 20世纪中华歌坛名人百集珍藏版.wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "容易受伤的女人"
+    PERFORMER "王靖雯"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "变幻的世界在转"
+    PERFORMER "王靖雯"
+    INDEX 00 04:18:47
+    INDEX 01 04:21:67
+  TRACK 03 AUDIO
+    TITLE "矜持"
+    PERFORMER "王靖雯"
+    INDEX 00 08:27:17
+    INDEX 01 08:29:35
+  TRACK 04 AUDIO
+    TITLE "沉醉"
+    PERFORMER "王靖雯"
+    INDEX 00 13:08:32
+    INDEX 01 13:09:72
+  TRACK 05 AUDIO
+    TITLE "不变"
+    PERFORMER "王靖雯"
+    INDEX 00 17:21:07
+    INDEX 01 17:22:62
+  TRACK 06 AUDIO
+    TITLE "只愿为你守着约"
+    PERFORMER "王靖雯"
+    INDEX 00 22:09:10
+    INDEX 01 22:11:54
+  TRACK 07 AUDIO
+    TITLE "冷战"
+    PERFORMER "王靖雯"
+    INDEX 00 26:27:67
+    INDEX 01 26:29:07
+  TRACK 08 AUDIO
+    TITLE "软弱"
+    PERFORMER "王靖雯"
+    INDEX 00 30:38:35
+    INDEX 01 30:41:22
+  TRACK 09 AUDIO
+    TITLE "挣脱"
+    PERFORMER "王靖雯"
+    INDEX 00 35:04:65
+    INDEX 01 35:07:37
+  TRACK 10 AUDIO
+    TITLE "眷恋"
+    PERFORMER "王靖雯"
+    INDEX 00 39:36:52
+    INDEX 01 39:38:37
+  TRACK 11 AUDIO
+    TITLE "出路"
+    PERFORMER "王靖雯"
+    INDEX 00 43:37:45
+    INDEX 01 43:40:42
+  TRACK 12 AUDIO
+    TITLE "动心"
+    PERFORMER "王靖雯"
+    INDEX 00 47:39:25
+    INDEX 01 47:41:20
+  TRACK 13 AUDIO
+    TITLE "只有我自己"
+    PERFORMER "王靖雯"
+    INDEX 00 51:41:30
+    INDEX 01 51:44:05
+  TRACK 14 AUDIO
+    TITLE "心太野"
+    PERFORMER "王靖雯"
+    INDEX 00 55:10:37
+    INDEX 01 55:12:30
