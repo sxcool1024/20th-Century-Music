@@ -1,0 +1,95 @@
+REM DATE 1996
+REM DISCID EA0CDD12
+REM COMMENT "ExactAudioCopy v0.99pb1"
+PERFORMER "朱逢博"
+TITLE "20世纪中华歌坛名人百集珍藏版"
+FILE "朱逢博 - 20世纪中华歌坛名人百集珍藏版.wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "赶牲灵"
+    PERFORMER "朱逢博"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "请茶歌"
+    PERFORMER "朱逢博"
+    INDEX 00 02:34:07
+    INDEX 01 02:37:32
+  TRACK 03 AUDIO
+    TITLE "滑雪歌"
+    PERFORMER "朱逢博"
+    INDEX 00 04:45:57
+    INDEX 01 04:49:32
+  TRACK 04 AUDIO
+    TITLE "绣荷包"
+    PERFORMER "朱逢博"
+    INDEX 00 09:06:25
+    INDEX 01 09:11:27
+  TRACK 05 AUDIO
+    TITLE "夜来香"
+    PERFORMER "朱逢博"
+    INDEX 00 11:17:02
+    INDEX 01 11:22:05
+  TRACK 06 AUDIO
+    TITLE "北风吹"
+    PERFORMER "朱逢博"
+    INDEX 00 14:53:17
+    INDEX 01 14:55:65
+  TRACK 07 AUDIO
+    TITLE "扎红头绳"
+    PERFORMER "朱逢博"
+    INDEX 00 16:53:37
+    INDEX 01 16:56:70
+  TRACK 08 AUDIO
+    TITLE "喜儿哭爹"
+    PERFORMER "朱逢博"
+    INDEX 00 19:23:40
+    INDEX 01 19:28:05
+  TRACK 09 AUDIO
+    TITLE "橄榄树"
+    PERFORMER "朱逢博"
+    INDEX 00 21:17:07
+    INDEX 01 21:20:62
+  TRACK 10 AUDIO
+    TITLE "美丽的心灵"
+    PERFORMER "朱逢博"
+    INDEX 00 24:57:45
+    INDEX 01 25:02:30
+  TRACK 11 AUDIO
+    TITLE "尼罗河畔的歌声"
+    PERFORMER "朱逢博"
+    INDEX 00 28:06:27
+    INDEX 01 28:10:60
+  TRACK 12 AUDIO
+    TITLE "夏日最后的玫瑰"
+    PERFORMER "朱逢博"
+    INDEX 00 30:36:65
+    INDEX 01 30:42:40
+  TRACK 13 AUDIO
+    TITLE "蓝花花"
+    PERFORMER "朱逢博"
+    INDEX 00 33:22:00
+    INDEX 01 33:26:55
+  TRACK 14 AUDIO
+    TITLE "阿里山的姑娘"
+    PERFORMER "朱逢博"
+    INDEX 00 36:51:45
+    INDEX 01 36:55:65
+  TRACK 15 AUDIO
+    TITLE "卖花"
+    PERFORMER "朱逢博"
+    INDEX 00 40:07:02
+    INDEX 01 40:11:50
+  TRACK 16 AUDIO
+    TITLE "回忆童年"
+    PERFORMER "朱逢博"
+    INDEX 00 42:36:32
+    INDEX 01 42:40:40
+  TRACK 17 AUDIO
+    TITLE "红河谷"
+    PERFORMER "朱逢博"
+    INDEX 00 46:58:22
+    INDEX 01 47:03:07
+  TRACK 18 AUDIO
+    TITLE "那就是我"
+    PERFORMER "朱逢博"
+    INDEX 00 50:09:22
+    INDEX 01 50:13:72
