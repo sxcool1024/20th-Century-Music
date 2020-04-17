@@ -1,0 +1,96 @@
+REM DATE 1999
+REM DISCID 0F0D7F12
+REM COMMENT "ExactAudioCopy v0.99pb1"
+PERFORMER "群星"
+TITLE "六、七十年代名人集"
+FILE "群星 - 六、七十年代名人集.wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "我爱你、中国"
+    PERFORMER "叶佩英"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:32
+  TRACK 02 AUDIO
+    TITLE "铁蹄下的歌女"
+    PERFORMER "叶佩英"
+    INDEX 00 05:22:55
+    INDEX 01 05:24:57
+  TRACK 03 AUDIO
+    TITLE "塞里木湖畔起了风浪"
+    PERFORMER "苏凤娟"
+    INDEX 00 07:45:30
+    INDEX 01 07:47:32
+  TRACK 04 AUDIO
+    TITLE "老司机"
+    PERFORMER "王凯平"
+    INDEX 00 10:26:28
+    INDEX 01 10:28:30
+  TRACK 05 AUDIO
+    TITLE "飞出这苦难的牢笼"
+    PERFORMER "黄葆慧"
+    INDEX 00 12:54:43
+    INDEX 01 12:56:45
+  TRACK 06 AUDIO
+    TITLE "我爱"
+    PERFORMER "黄葆慧"
+    INDEX 00 17:14:18
+    INDEX 01 17:16:20
+  TRACK 07 AUDIO
+    TITLE "红杉树"
+    PERFORMER "张正宜"
+    INDEX 00 20:53:40
+    INDEX 01 20:55:42
+  TRACK 08 AUDIO
+    TITLE "我愿"
+    PERFORMER "张正宜"
+    INDEX 00 23:51:43
+    INDEX 01 23:53:45
+  TRACK 09 AUDIO
+    TITLE "夜莺与玫瑰"
+    PERFORMER "刘若娥"
+    INDEX 00 26:23:35
+    INDEX 01 26:25:37
+  TRACK 10 AUDIO
+    TITLE "怨别离"
+    PERFORMER "刘若娥"
+    INDEX 00 29:12:38
+    INDEX 01 29:14:40
+  TRACK 11 AUDIO
+    TITLE "赠别友人"
+    PERFORMER "王秉锐"
+    INDEX 00 30:48:43
+    INDEX 01 30:50:45
+  TRACK 12 AUDIO
+    TITLE "海鸥"
+    PERFORMER "苏凤娟"
+    INDEX 00 33:37:39
+    INDEX 01 33:39:42
+  TRACK 13 AUDIO
+    TITLE "故乡"
+    PERFORMER "梁美珍"
+    INDEX 00 36:35:17
+    INDEX 01 36:37:20
+  TRACK 14 AUDIO
+    TITLE "在河对岸远方"
+    PERFORMER "蔡国屏"
+    INDEX 00 40:31:23
+    INDEX 01 40:33:25
+  TRACK 15 AUDIO
+    TITLE "小夜曲"
+    PERFORMER "莫纪纲"
+    INDEX 00 45:31:35
+    INDEX 01 45:33:37
+  TRACK 16 AUDIO
+    TITLE "小鸟"
+    PERFORMER "莫纪纲"
+    INDEX 00 48:32:18
+    INDEX 01 48:34:20
+  TRACK 17 AUDIO
+    TITLE "椰岛之歌"
+    PERFORMER "斩小才"
+    INDEX 00 50:43:35
+    INDEX 01 50:45:37
+  TRACK 18 AUDIO
+    TITLE "西班牙女郎"
+    PERFORMER "斩小才"
+    INDEX 00 54:45:40
+    INDEX 01 54:47:42
