@@ -1,0 +1,85 @@
+REM DATE 1999
+REM DISCID E00E2C10
+REM COMMENT "ExactAudioCopy v0.99pb1"
+PERFORMER "群星"
+TITLE "军旅歌坛名人集3"
+FILE "群星 - 军旅歌坛名人集3.wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "长城永在我心上"
+    PERFORMER "群星"
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    TITLE "我给太阳敬个军礼"
+    PERFORMER "群星"
+    INDEX 00 02:56:27
+    INDEX 01 03:00:70
+  TRACK 03 AUDIO
+    TITLE "缤纷的彩带"
+    PERFORMER "群星"
+    INDEX 00 06:53:65
+    INDEX 01 06:57:37
+  TRACK 04 AUDIO
+    TITLE "告别军旗"
+    PERFORMER "群星"
+    INDEX 00 12:11:03
+    INDEX 01 12:12:20
+  TRACK 05 AUDIO
+    TITLE "歌唱敬爱的周总理"
+    PERFORMER "群星"
+    INDEX 00 15:52:57
+    INDEX 01 15:57:42
+  TRACK 06 AUDIO
+    TITLE "三峡情"
+    PERFORMER "群星"
+    INDEX 00 19:19:02
+    INDEX 01 19:21:25
+  TRACK 07 AUDIO
+    TITLE "故乡的小路"
+    PERFORMER "群星"
+    INDEX 00 23:50:67
+    INDEX 01 23:54:17
+  TRACK 08 AUDIO
+    TITLE "山海颂"
+    PERFORMER "群星"
+    INDEX 00 29:32:27
+    INDEX 01 29:39:70
+  TRACK 09 AUDIO
+    TITLE "欢跳吧，年轻的朋友"
+    PERFORMER "群星"
+    INDEX 00 32:47:10
+    INDEX 01 32:52:65
+  TRACK 10 AUDIO
+    TITLE "我爱这蓝色的海洋"
+    PERFORMER "群星"
+    INDEX 00 35:02:72
+    INDEX 01 35:03:30
+  TRACK 11 AUDIO
+    TITLE "和祖国相会"
+    PERFORMER "群星"
+    INDEX 00 38:00:45
+    INDEX 01 38:04:57
+  TRACK 12 AUDIO
+    TITLE "松花江上"
+    PERFORMER "群星"
+    INDEX 00 42:06:57
+    INDEX 01 42:10:47
+  TRACK 13 AUDIO
+    TITLE "牧马人之歌"
+    PERFORMER "群星"
+    INDEX 00 45:52:20
+    INDEX 01 45:54:32
+  TRACK 14 AUDIO
+    TITLE "英雄赞歌"
+    PERFORMER "群星"
+    INDEX 00 48:24:67
+    INDEX 01 48:28:10
+  TRACK 15 AUDIO
+    TITLE "伊犁姑娘"
+    PERFORMER "群星"
+    INDEX 00 52:40:62
+    INDEX 01 52:46:30
+  TRACK 16 AUDIO
+    TITLE "共和国之恋"
+    PERFORMER "群星"
+    INDEX 00 56:55:72
+    INDEX 01 56:58:72
