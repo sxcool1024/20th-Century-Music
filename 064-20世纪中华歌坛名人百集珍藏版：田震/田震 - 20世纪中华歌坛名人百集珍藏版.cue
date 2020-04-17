@@ -1,0 +1,71 @@
+REM DATE 1999
+REM DISCID C20CDF0D
+REM COMMENT "ExactAudioCopy v0.99pb1"
+PERFORMER "田震"
+TITLE "20世纪中华歌坛名人百集珍藏版"
+FILE "田震 - 20世纪中华歌坛名人百集珍藏版.wav" WAVE
+  TRACK 01 AUDIO
+    TITLE "乾杯，朋友"
+    PERFORMER "田震"
+    INDEX 00 00:00:00
+    INDEX 01 00:00:32
+  TRACK 02 AUDIO
+    TITLE "顺其自然"
+    PERFORMER "田震"
+    INDEX 00 03:26:10
+    INDEX 01 03:28:10
+  TRACK 03 AUDIO
+    TITLE "野花"
+    PERFORMER "田震"
+    INDEX 00 07:30:12
+    INDEX 01 07:32:12
+  TRACK 04 AUDIO
+    TITLE "执着"
+    PERFORMER "田震"
+    INDEX 00 11:21:37
+    INDEX 01 11:23:37
+  TRACK 05 AUDIO
+    TITLE "你的目光温暖了我"
+    PERFORMER "田震"
+    INDEX 00 15:15:10
+    INDEX 01 15:17:10
+  TRACK 06 AUDIO
+    TITLE "为你而歌"
+    PERFORMER "田震"
+    INDEX 00 19:54:27
+    INDEX 01 19:56:27
+  TRACK 07 AUDIO
+    TITLE "我热恋的故乡"
+    PERFORMER "田震"
+    INDEX 00 24:38:47
+    INDEX 01 24:40:47
+  TRACK 08 AUDIO
+    TITLE "最后的夜"
+    PERFORMER "田震"
+    INDEX 00 28:38:17
+    INDEX 01 28:40:17
+  TRACK 09 AUDIO
+    TITLE "心在一起"
+    PERFORMER "田震"
+    INDEX 00 32:55:15
+    INDEX 01 32:57:15
+  TRACK 10 AUDIO
+    TITLE "你是否和我一样"
+    PERFORMER "田震"
+    INDEX 00 36:57:12
+    INDEX 01 36:59:12
+  TRACK 11 AUDIO
+    TITLE "爱情守望者"
+    PERFORMER "田震"
+    INDEX 00 41:04:10
+    INDEX 01 41:06:10
+  TRACK 12 AUDIO
+    TITLE "回来又去，去了又回"
+    PERFORMER "田震"
+    INDEX 00 46:04:45
+    INDEX 01 46:06:45
+  TRACK 13 AUDIO
+    TITLE "乐园"
+    PERFORMER "田震"
+    INDEX 00 50:54:27
+    INDEX 01 50:56:27
