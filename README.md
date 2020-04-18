@@ -1,8 +1,8 @@
 # 20世纪中华歌坛名人百集珍藏版合集
-![20世纪中华歌坛名人百集珍藏版](https://www.nsaimg.com/2020/04/18/15618907e0e95.jpg =200x200)
-![20世纪中华歌坛名人百集珍藏版](https://www.nsaimg.com/2020/04/18/3a6a2cec2d89f.jpg =200x200)
-![20世纪中华歌坛名人百集珍藏版](https://www.nsaimg.com/2020/04/18/5d36468adb25e.jpg =200x200)
-![20世纪中华歌坛名人百集珍藏版](https://www.nsaimg.com/2020/04/18/ad509985af2b7.jpg =200x200)
+![20世纪中华歌坛名人百集珍藏版](https://www.nsaimg.com/2020/04/18/15618907e0e95.jpg =200X200)
+![20世纪中华歌坛名人百集珍藏版](https://www.nsaimg.com/2020/04/18/3a6a2cec2d89f.jpg =200X200)
+![20世纪中华歌坛名人百集珍藏版](https://www.nsaimg.com/2020/04/18/5d36468adb25e.jpg =200X200)
+![20世纪中华歌坛名人百集珍藏版](https://www.nsaimg.com/2020/04/18/ad509985af2b7.jpg =200X200)
 * 《20世纪中华歌坛名人百集珍藏版合集》是中国唱片总公司在2011年7月-9月发行的发烧CD，[点击可查看天猫介绍。](https://list.tmall.com/search_product.htm?q=20%CA%C0%BC%CD%D6%D0%BB%AA%B8%E8%CC%B3%C3%FB%C8%CB%B0%D9%BC%AF%D5%E4%B2%D8%B0%E6%BA%CF%BC%AF&type=p&spm=a220o.0.a2227oh.d100&from=.detail.pc_1_searchbutton)中国唱片总公司发行的只有93张CD，实际上该合集共102张原版CD，原因大家都懂，本项目已经整理好所有合集可免费下载。
 * 为了避免和谐，所有专辑全部压缩加密且下载需要提取码，**提取码和解压密码加文末电报群发送密码两字即可获取**
 * 每个专辑文件夹下都包含CD包装封面正反面图片、CD碟片图片、专辑介绍文档、抓轨log、CUE索引等一些跟专辑介绍有关文件，可点击对应文件夹查看。
